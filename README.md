@@ -1,0 +1,3 @@
+- 👋 ola meu nome é @AlunoTor.
+- 👀 Eu estou interessado em aprender e programar novas linguagens .
+- 🌱 EU estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
